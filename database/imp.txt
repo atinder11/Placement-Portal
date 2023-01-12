@@ -1,0 +1,35 @@
+login:
+
+
+admin login:
+admin
+123456
+
+
+
+coordinator login:
+
+sumit: abc@gmail.com
+123456
+
+student login
+atinder@gmail.com
+123456
+
+
+jatin@gmail.com
+123456
+
+
+# common header/footer and link code are in php folder
+# uploads contain admin header, user header, and job header  i.e navbar
+
+
+
+How to create a sql file using command line ?
+
+1. Open up a command prompt: Start -> Run -> cmd
+2. cd c:\xampp\mysql\bin
+3. mysqldump -u root -p placement_portal > c:\xampp\moodle-backup.sql
+4. Paste the password when prompted
+5. mysqldump options: mysqldump -u root -p placement_portal > dumpfilename.sql
