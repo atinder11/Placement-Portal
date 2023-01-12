@@ -1,18 +1,6 @@
-# Inhouse Competition - JIIT Optica Student Chapter
-## Topic-College Realted
+# Placement-Portal
 
-### Problem Statement- Many time student have visited many websites / blogs for find where is Job opening is there or not, Many cases they miss the opportunity. In this modern world bombard with information make students confused, one mentor in form of senior can definitely help how to web dev, Android dev ,AWS and many more questions 
 
-# Team-code stomp
-
-### Team Member
-
-Atinder Kumar
-<br>
-Suyash Rawat
-<br>
-Jatin Tagore
-<br>
 
 INTRODUCTION
 
@@ -27,13 +15,13 @@ GETTING STARTED
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/atinder11/Placement-Portal).
+3. Download project from github(https://github.com/narendra03K/Placement-Portal).
 
 OR follow gitbash commands
 
 i> cd C:\\xampp\htdocs\
 
-ii> git clone https://github.com/atinder11/Placement-Portal
+ii> git clone https://github.com/narendra03K/Placement-Portal
 
 4. Extract files in C:\xampp\htdocs.
 
@@ -56,3 +44,35 @@ ii> git clone https://github.com/atinder11/Placement-Portal
 PROJECT SNAPSHOTS
 
 Home Page
+
+![home](https://user-images.githubusercontent.com/87755170/184550716-f36710d7-c5cb-4b1a-b5f2-8227920e485c.png)
+
+
+Login Page
+
+![Login Page](https://user-images.githubusercontent.com/87755170/184550718-f78d2e05-d90f-46cb-8a07-e3dcc3a538d3.png)
+
+
+Student Panel
+
+![student panl](https://user-images.githubusercontent.com/87755170/184550794-a778a02d-748c-490d-97ba-bf68c22fd3f4.png)
+
+
+Admin Panel
+
+![Screenshot 2022-05-20 234626](https://user-images.githubusercontent.com/87755170/184550961-84913a45-65ac-4a70-a5b9-233709dd4465.png)
+
+Resume Generator
+
+![resume](https://user-images.githubusercontent.com/87755170/184550823-82bb6049-9a64-4e51-a171-6c86a4645ab9.png)
+
+Check Eligibility
+
+![check eligibility](https://user-images.githubusercontent.com/87755170/184550829-86546902-a38c-4fe6-a53c-bf5844668f05.png)
+
+Resources
+
+1. https://stackoverflow.com/  <br/>
+2. https://github.com/<br/>
+3. https://tailwindcss.com/<br/>
+4. https://getbootstrap.com/
