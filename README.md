@@ -16,6 +16,18 @@ The Placement Management System is a web application for the training and  place
 Website- https://code-placement.000webhostapp.com/index.php
 
 
+## Features
+- Separate Login Page For Admin, Coordinater and Student
+- Interactive Dashboard
+- Coordinater can Update the drive and check the applied and modify accordingly
+- Admin can Approve and reject request of All type of registration 
+- Admin can post notice to all students and coordinater separately
+- Upload technical papers
+- View Student and Company Profile
+- Interactive Contact us Page
+
+
+
 ## Technology and Framework Used
 - HTML
 - CSS
