@@ -1,0 +1,35 @@
+/* Add styles to the form container */
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: rgb(27, 15, 15);
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover,
+.open-button:hover {
+  opacity: 1;
+}
+
+.open-button {
+  background-color: rgba(105, 0, 255, 0.11);
+  color: #6900ff;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  /* opacity: 0.8; */
+  position: fixed;
+  bottom: 23px;
+  right: 78px;
+  width: 240px;
+}
+
+/* The popup chat - hidden by default */
+.chat-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #252323;
+  z-index: 9;
+}
